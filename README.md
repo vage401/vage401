@@ -7,4 +7,4 @@
 <!---
 vage401/vage401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->13 verbose stack Error: classic-rp@1.0.0~build: `node scripts/build.js`
